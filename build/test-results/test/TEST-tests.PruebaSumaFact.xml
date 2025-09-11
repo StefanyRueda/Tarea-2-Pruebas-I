@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.PruebaSumaFact" tests="11" skipped="0" failures="0" errors="0" timestamp="2025-09-11T03:42:12" hostname="VACANELA" time="0.084">
+  <properties/>
+  <testcase name="n: 0  Resultado esperado: 0" classname="tests.PruebaSumaFact" time="0.04"/>
+  <testcase name="n: 1  Resultado esperado: 0" classname="tests.PruebaSumaFact" time="0.005"/>
+  <testcase name="n: 2  Resultado esperado: 2" classname="tests.PruebaSumaFact" time="0.002"/>
+  <testcase name="n: 3  Resultado esperado: 8" classname="tests.PruebaSumaFact" time="0.001"/>
+  <testcase name="n: 4  Resultado esperado: 32" classname="tests.PruebaSumaFact" time="0.006"/>
+  <testcase name="n: 5  Resultado esperado: 152" classname="tests.PruebaSumaFact" time="0.0"/>
+  <testcase name="n: 6  Resultado esperado: 872" classname="tests.PruebaSumaFact" time="0.0"/>
+  <testcase name="n: 7  Resultado esperado: 5912" classname="tests.PruebaSumaFact" time="0.001"/>
+  <testcase name="n: 8  Resultado esperado: 46232" classname="tests.PruebaSumaFact" time="0.001"/>
+  <testcase name="n: 9  Resultado esperado: 409112" classname="tests.PruebaSumaFact" time="0.002"/>
+  <testcase name="n: 10  Resultado esperado: 4037912" classname="tests.PruebaSumaFact" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
