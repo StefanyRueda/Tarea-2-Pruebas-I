@@ -1,4 +1,4 @@
-ame: CI (Gradle / JUnit)
+name: CI (Gradle / JUnit)
 
 on:
   push: { branches: [ "main", "master", "develop" ] }
